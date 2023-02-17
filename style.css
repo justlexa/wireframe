@@ -1,6 +1,7 @@
 body {
   background-color: #5ccd00;
   font-family: "Arial", sans-serif;
+  margin: 0px;
 }
 
 .sidenav {
@@ -23,8 +24,7 @@ body {
 
 footer {
   background-color: #d5d5d5;
-  z-index: 0;
   width: 100%;
   text-align: center;
-  padding: 10px 0px 10px 0px;
+  padding: 10px 50px 50px 0px;
 }
